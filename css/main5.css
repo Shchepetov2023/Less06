@@ -1,0 +1,134 @@
+
+.button{
+    width: 100%;
+    background: #6A9B96;
+    color: white;
+   
+    
+}
+.menu-wrapper{
+    display: flex;
+    justify-content: center;
+    padding: 3px 0;
+    gap: 70px;
+}
+.menu{
+    padding: 20px 0;
+}
+.logo{
+    background: #6A9B96;
+    color: white;
+    text-align: center;
+    font-family: 'Prompt', sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+    border-radius: 10px;
+}
+    
+.slide{
+    background: white;
+    height: 600px;
+}
+.slider-wrapper{
+    height: 700px;
+    margin-top: 70px;
+}
+.carousel-indicators{
+    top: 620px;
+    
+}
+.carousel-indicators [data-bs-target]{
+    background: #6A9B96;
+    width: 13px;
+    height: 16px;
+    border: none; 
+}
+.img-fluid{
+   position: relative;
+   width: 100%;
+   height: 600px;
+   
+}
+.modal-section{
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 158px;
+   
+}
+h4{
+   
+    display: flex;
+    justify-content: center;
+}
+.btn-wrapper{
+    background:  #F09E68;
+    margin-top: 199px;
+    top: 199px;
+    font-size: larger;
+    font-weight: 500;
+    color: black;
+    width: 446px;
+    height: 100px;
+    border: none;
+}
+.tab-content{
+   background: #C3D2CB;;
+   width: 635px;
+   height: 198px;
+   font-size: small;
+   padding-right: 116px;
+   padding-left: 34px;
+   padding-top: 58px;
+   border-radius: 15px;
+    
+}
+.btn0{
+    width: 139px;
+    height: 50px;
+    background-color: #6A9B96;
+    color: black;
+    border-radius: 10px;
+    border: none;
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+    background-color: #6A9B96;
+    color: black;
+    width: 139px;
+    height: 50px;
+}
+.nav-link{
+    color: black;
+}
+.tabl-wrapper{
+    display: flex;
+    justify-content: end;
+    margin-left: 200px;
+    margin-top: -200px;
+   
+}
+.accord-section{
+    padding-top:121px;
+    
+}
+.accordion{
+    width: 730px;
+    height: 50px;
+    margin: 92px 0 300px 300px;
+}
+.accordion-button:not(.collapsed){
+    background-color: #FBDCC7;
+    color: black;
+    text-decoration: none;
+}
+.footer{
+    margin-top: 100px;
+    padding: 20px 0;
+    font-size: small;
+    font-weight: bold;
+}
+  
+    
+
+ 
+
+    
